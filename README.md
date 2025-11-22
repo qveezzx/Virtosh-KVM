@@ -146,7 +146,7 @@ Make sure you are using Linux like Arch, Ubuntu, Debian, Manjaro, Mint - does no
 
 ---
 
-This project is a fork of Coopydood's ultimate-macOS-KVM (https://github.com/Coopydood/ultimate-macOS-KVM), originally © Coopydood. 
-While some file headers may indicate © qveezzx for modifications, the original copyright of the original files remains with Coopydood. 
-This project is licensed under GPL 3.0. Modifications and new contributions by qveezzx are also under GPL 3.0.
+This project continues the development of Coopydood’s ultimate-macOS-KVM, originally © Coopydood.
+While some file headers may indicate © qveezzx for improvements, maintenance and modifications, the original copyright of the original files remains with Coopydood.
+All enhancements, maintenance and new contributions by qveezzx are licensed under GPL 3.0.
 
