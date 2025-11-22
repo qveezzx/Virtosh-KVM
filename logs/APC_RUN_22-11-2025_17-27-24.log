@@ -1,0 +1,24 @@
+Virtosh AUTOPILOT LOG 22-11-2025 17:27:24
+───────────────────────────────────────────────────────────────────
+[17:27:24.931][ INFO ]:  Virtosh v0.14.0
+[17:27:24.931][ INFO ]:   
+[17:27:24.931][ INFO ]:  Name       : AutoPilot
+[17:27:24.931][ INFO ]:  File       : autopilot.py
+[17:27:24.931][ INFO ]:  Identifier : APC
+[17:27:24.931][ INFO ]:  Vendor     : qveezzx
+[17:27:24.931][ INFO ]:   
+[17:27:24.931][ INFO ]:  Logging to ./logs/APC_RUN_22-11-2025_17-27-24.log
+[17:27:24.932][  OK  ]:  The NRS folder structure was not detected, will not use NRS
+[17:27:24.932][ INFO ]:  Downloading notice list
+[17:27:25.260][  OK  ]:  Notice list downloaded
+[17:27:25.260][ INFO ]:  Checking notice list
+[17:27:25.260][  OK  ]:  Notice list loaded
+[17:27:25.260][ INFO ]:  Marking spark timestamp
+[17:27:25.260][ INFO ]:  Displaying menu
+[17:27:25.260][  OK  ]:  Menu displayed
+[17:27:25.260][ WAIT ]:  Waiting on user input
+[17:28:05.469][  OK  ]:  User input received
+[17:28:05.469][  OK  ]:  ───────────────── STARTING INTERROGATION SEQUENCE ─────────────────
+[17:28:05.470][ INFO ]:  FEATURE LEVEL 12
+[17:28:05.470][  OK  ]:  Stage 1 sequence initiated
+[17:28:05.470][  OK  ]:  Removing stale blobs

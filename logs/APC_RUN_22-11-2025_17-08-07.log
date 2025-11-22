@@ -1,0 +1,21 @@
+Virtosh AUTOPILOT LOG 22-11-2025 17:08:07
+───────────────────────────────────────────────────────────────────
+[17:08:07.311][ INFO ]:  Virtosh v0.14.0
+[17:08:07.311][ INFO ]:   
+[17:08:07.311][ INFO ]:  Name       : AutoPilot
+[17:08:07.311][ INFO ]:  File       : autopilot.py
+[17:08:07.311][ INFO ]:  Identifier : APC
+[17:08:07.311][ INFO ]:  Vendor     : qveezzx
+[17:08:07.311][ INFO ]:   
+[17:08:07.311][ INFO ]:  Logging to ./logs/APC_RUN_22-11-2025_17-08-07.log
+[17:08:07.312][  OK  ]:  The NRS folder structure was not detected, will not use NRS
+[17:08:07.312][ INFO ]:  Downloading notice list
+[17:08:07.815][  OK  ]:  Notice list downloaded
+[17:08:07.815][ INFO ]:  Checking notice list
+[17:08:07.816][  OK  ]:  Notice list loaded
+[17:08:07.816][ INFO ]:  Marking spark timestamp
+[17:08:07.816][ INFO ]:  Displaying menu
+[17:08:07.816][  OK  ]:  Menu displayed
+[17:08:07.816][ WAIT ]:  Waiting on user input
+[17:08:17.018][  OK  ]:  User input received
+[17:08:17.018][ FATAL ]: User quit

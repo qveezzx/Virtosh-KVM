@@ -1,0 +1,21 @@
+ULTMOS AUTOPILOT LOG 22-11-2025 16:25:04
+───────────────────────────────────────────────────────────────────
+[16:25:04.024][ INFO ]:  ULTMOS v0.14.0
+[16:25:04.024][ INFO ]:   
+[16:25:04.024][ INFO ]:  Name       : AutoPilot
+[16:25:04.024][ INFO ]:  File       : autopilot.py
+[16:25:04.024][ INFO ]:  Identifier : APC
+[16:25:04.024][ INFO ]:  Vendor     : Coopydood
+[16:25:04.024][ INFO ]:   
+[16:25:04.024][ INFO ]:  Logging to ./logs/APC_RUN_22-11-2025_16-25-04.log
+[16:25:04.025][  OK  ]:  The NRS folder structure was not detected, will not use NRS
+[16:25:04.025][ INFO ]:  Downloading notice list
+[16:25:04.286][  OK  ]:  Notice list downloaded
+[16:25:04.286][ INFO ]:  Checking notice list
+[16:25:04.286][  OK  ]:  Notice list loaded
+[16:25:04.286][ INFO ]:  Marking spark timestamp
+[16:25:04.286][ INFO ]:  Displaying menu
+[16:25:04.286][  OK  ]:  Menu displayed
+[16:25:04.286][ WAIT ]:  Waiting on user input
+[16:25:05.922][  OK  ]:  User input received
+[16:25:05.922][ INFO ]:  Returning to main menu

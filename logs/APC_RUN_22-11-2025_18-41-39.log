@@ -1,0 +1,36 @@
+Virtosh AUTOPILOT LOG 22-11-2025 18:41:39
+───────────────────────────────────────────────────────────────────
+[18:41:39.482][ INFO ]:  Virtosh v0.14.0
+[18:41:39.482][ INFO ]:   
+[18:41:39.482][ INFO ]:  Name       : AutoPilot
+[18:41:39.482][ INFO ]:  File       : autopilot.py
+[18:41:39.482][ INFO ]:  Identifier : APC
+[18:41:39.482][ INFO ]:  Vendor     : qveezzx
+[18:41:39.482][ INFO ]:   
+[18:41:39.483][ INFO ]:  Logging to ./logs/APC_RUN_22-11-2025_18-41-39.log
+[18:41:39.483][  OK  ]:  The NRS folder structure was not detected, will not use NRS
+[18:41:39.483][ INFO ]:  Downloading notice list
+[18:41:39.980][  OK  ]:  Notice list downloaded
+[18:41:39.980][ INFO ]:  Checking notice list
+[18:41:39.980][  OK  ]:  Notice list loaded
+[18:41:39.980][ INFO ]:  Marking spark timestamp
+[18:41:39.980][ INFO ]:  Displaying menu
+[18:41:39.980][  OK  ]:  Menu displayed
+[18:41:39.980][ WAIT ]:  Waiting on user input
+[18:41:41.748][  OK  ]:  User input received
+[18:41:41.748][  OK  ]:  ───────────────── STARTING INTERROGATION SEQUENCE ─────────────────
+[18:41:41.749][ INFO ]:  FEATURE LEVEL 12
+[18:41:41.749][  OK  ]:  Stage 1 sequence initiated
+[18:41:41.749][  OK  ]:  Removing stale blobs
+[18:41:43.172][  OK  ]:  Using default value of boot.sh
+[18:41:43.173][ WARN ]:  Notice hook has been hit
+[18:41:43.173][ WARN ]:  Arming notice selection trigger
+[18:41:43.173][  OK  ]:  Stage 2 sequence initiated
+[18:41:43.932][ WARN ]:  Notice hook has been hit
+[18:41:43.932][ WARN ]:  Arming notice selection trigger
+[18:41:43.932][  OK  ]:  Stage 2 sequence initiated
+[18:41:43.933][ INFO ]:  Custom value requested, setting up
+[18:42:34.124][ WARN ]:  Notice hook has been hit
+[18:42:34.124][ WARN ]:  Arming notice selection trigger
+[18:42:34.124][  OK  ]:  Stage 2 sequence initiated
+[18:42:34.124][ INFO ]:  Custom value requested, setting up

@@ -1,0 +1,59 @@
+Virtosh AUTOPILOT LOG 22-11-2025 17:55:05
+───────────────────────────────────────────────────────────────────
+[17:55:05.070][ INFO ]:  Virtosh v0.14.0
+[17:55:05.071][ INFO ]:   
+[17:55:05.071][ INFO ]:  Name       : AutoPilot
+[17:55:05.071][ INFO ]:  File       : autopilot.py
+[17:55:05.071][ INFO ]:  Identifier : APC
+[17:55:05.071][ INFO ]:  Vendor     : qveezzx
+[17:55:05.071][ INFO ]:   
+[17:55:05.071][ INFO ]:  Logging to ./logs/APC_RUN_22-11-2025_17-55-05.log
+[17:55:05.071][  OK  ]:  The NRS folder structure was not detected, will not use NRS
+[17:55:05.071][ INFO ]:  Downloading notice list
+[17:55:05.325][  OK  ]:  Notice list downloaded
+[17:55:05.325][ INFO ]:  Checking notice list
+[17:55:05.325][  OK  ]:  Notice list loaded
+[17:55:05.325][ INFO ]:  Marking spark timestamp
+[17:55:05.325][ INFO ]:  Displaying menu
+[17:55:05.325][  OK  ]:  Menu displayed
+[17:55:05.325][ WAIT ]:  Waiting on user input
+[17:55:10.216][  OK  ]:  User input received
+[17:55:10.216][  OK  ]:  ───────────────── STARTING INTERROGATION SEQUENCE ─────────────────
+[17:55:10.216][ INFO ]:  FEATURE LEVEL 12
+[17:55:10.216][  OK  ]:  Stage 1 sequence initiated
+[17:55:10.216][  OK  ]:  Removing stale blobs
+[17:55:11.272][  OK  ]:  Using default value of boot.sh
+[17:55:11.272][ WARN ]:  Notice hook has been hit
+[17:55:11.272][ WARN ]:  Arming notice selection trigger
+[17:55:11.272][  OK  ]:  Stage 2 sequence initiated
+[17:55:12.504][  OK  ]:  Using default value of 12
+[17:55:12.504][  OK  ]:  Stage 3 sequence initiated
+[17:55:13.768][  OK  ]:  Using default value of 2
+[17:55:13.768][  OK  ]:  Stage 4 sequence initiated
+[17:55:14.768][  OK  ]:  Using default value of 2
+[17:55:14.768][  OK  ]:  Stage 5 sequence initiated
+[17:55:15.744][  OK  ]:  Using default value of Haswell-noTSX
+[17:55:15.744][  OK  ]:  Stage 6 sequence initiated
+[17:55:16.600][  OK  ]:  Using default value of +ssse3,+sse4.2,+popcnt,+avx,+aes,+xsave,+xsaveopt,check
+[17:55:16.600][  OK  ]:  Stage 7 sequence initiated
+[17:55:17.768][  OK  ]:  Using default value of 4G
+[17:55:17.768][  OK  ]:  Stage 8 sequence initiated
+[17:55:19.664][  OK  ]:  Using default value of 80G
+[17:55:19.664][ WARN ]:  Notice hook has been hit
+[17:55:19.664][ WARN ]:  Arming notice selection trigger
+[17:55:19.664][  OK  ]:  Stage 9 sequence initiated
+[17:55:20.872][  OK  ]:  Using default value of HDD
+[17:55:20.872][  OK  ]:  Will set disk up as an HDD
+[17:55:20.872][  OK  ]:  Stage 10 sequence initiated
+[17:55:22.120][  OK  ]:  Using default value of virtio-net
+[17:55:22.120][  OK  ]:  Stage 11 sequence initiated
+[17:55:23.120][  OK  ]:  Using default value of 00:16:cb:00:21:09
+[17:55:23.120][  OK  ]:  Stage 12 sequence initiated
+[17:55:23.983][ INFO ]:  Arming download mechanism
+[17:55:23.984][  OK  ]:  Downloader armed, will be triggered by AP flow
+[17:55:23.984][  OK  ]:  Stage 13 sequence initiated
+[17:55:25.648][  OK  ]:  Using default value of 1280x720
+[17:55:25.648][  OK  ]:  Stage 14 sequence initiated
+[17:55:27.408][  OK  ]:  XML generation will be skipped from AP flow
+[17:55:29.208][  OK  ]:  Interrogation complete, displaying summary and AP autoflow sliproad
+[17:55:35.632][  OK  ]:  Stage 14 sequence initiated
