@@ -111,7 +111,7 @@ Make sure you are using Linux like Arch, Ubuntu, Debian, Manjaro, Mint - does no
 # OSX Setup
 
 1. Download latest Source Code from releases or clone this repository.
-2. In root directory, run `./main.py`. The dependencies most likely will install automatically, if not, check Official Documentation.
+2. In root directory, run `./virtosh.sh` - if does not work, run `chmod +x ./virtosh.sh` then retry the `.virtosh.sh`. The dependencies most likely will install automatically, if not, check Official Documentation.
 3. Either set everything up manually or using "Autopilot".
 4. Boot using your new generated `.sh` (boot.sh if left default), e.g. `./boot.sh`.
 5. Check Official Documentation to go past the setup.
